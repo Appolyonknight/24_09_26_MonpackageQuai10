@@ -14,7 +14,7 @@
   },
   "samples": [
     {
-      "displayName": "Demo Scene",
+      "displayName": "knight",
       "description": "Example d'utilisation de l'outil.",
       "path": "Scene/Demo"
     }
