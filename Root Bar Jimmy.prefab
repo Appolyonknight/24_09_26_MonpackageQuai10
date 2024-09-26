@@ -40,6 +40,31 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2981562564105659974}
     m_Modifications:
+    - target: {fileID: 912053016190615009, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1698183557094696581, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1698183557094696581, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 917
+      objectReference: {fileID: 0}
+    - target: {fileID: 2319638718621212662, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2661961535067124274, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3983657152606071641, guid: 59c1e2e49e3c4bf43bff562882da582a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -90,10 +115,65 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4761884982288787782, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761884982288787782, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 2079
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562777091052679756, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562777091052679756, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 1429
+      objectReference: {fileID: 0}
     - target: {fileID: 6018167849568113872, guid: 59c1e2e49e3c4bf43bff562882da582a,
         type: 3}
       propertyPath: m_Name
       value: 'Island Bar Jimmy '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6476168112028972297, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6476168112028972297, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 1643
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548086684011968235, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8350086230669592986, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8353702578789188174, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8683005649659349893, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9022403064136884743, guid: 59c1e2e49e3c4bf43bff562882da582a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
